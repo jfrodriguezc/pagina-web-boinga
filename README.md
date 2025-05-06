@@ -1,12 +1,12 @@
-# React + Vite
+# Página Web Boinga
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Esta es una página web creada para la microempresa Helados Boinga, desarrollada con vite + react para el frontEnd, Node con Express para  el backEnd, mySql workbench para la base de datos y apiREST con javascript para la gestión de la api. En esta página web se podrá registrar y acceder mediante un login, ingresar a la página principal, navegar entre los componentes de crear producto, revisar el stock, mostrar productos, generar un pedido, actualizar la información, etc.
 
 Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Este proyecto solo es para uso local y exlcusivo de miembros de la empresa, el apartado de pedir un domocilio es de prueba para futuras mejoras.
+- El Jefe de la microempresa está estudiando Ingeniería Informática, por lo que desea expandir sus conocimientos combinando sus 2 pasiones: los negocios y el desarrollo de software.
 
-## Expanding the ESLint configuration
+## Objetivo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Gestionar la microempresa Helados Boinga de una manera más organizada, llevando un control del stock, de las ventas y obteniendo una visualización más clara y precisa para tomar decisiones más inteligentes y acordes al desarrollo y crecimiento de la empresa.
